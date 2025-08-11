@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mateo Celis Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300A86B&size=25&center=true&vCenter=true&width=700&height=100&lines=Systems+Engineering+Student+@UNAD;3+Years+Experience+@Playtech;Java+(Spring+Boot)+%26+PHP+Developer;Angular+%26+Android+Developer;PostgreSQL+%26+MongoDB+Experience;Ubuntu+Servers+%26+Docker+Containers;Always+learning+new+technologies;Open+to+new+job+opportunities">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300A86B&size=25&center=true&vCenter=true&width=700&height=100&duration=4000&pause=500&lines=Systems+Engineering+Student+@UNAD;3+Years+Experience+@Playtech;Java+(Spring+Boot)+%26+PHP+Developer;Angular+%26+Android+Developer;PostgreSQL+%26+MongoDB+Experience;Ubuntu+Servers+%26+Docker+Containers;Always+learning+new+technologies;Open+to+new+job+opportunities">
   </a>
 </p>
 

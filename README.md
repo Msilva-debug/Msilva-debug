@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **3+ years of professional experience** in software development at **Playtech**.
+- 💼 **5 years of professional experience** in software development at **Playtech**.
 - 🎯 Currently working as a **Development Lead / Software Developer**, participating in technical decisions, architecture, development and deployments.
 - 🎓 **Systems Engineering student** at UNAD.
 - 🧩 Full Stack experience building applications with **Angular, NestJS, Spring Boot, Java, TypeScript and PHP**.
